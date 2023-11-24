@@ -9,4 +9,4 @@ spring:
     username: root
     password: 123456
     hikari:
-      minimum-idle: 
+      minimum-idle:
